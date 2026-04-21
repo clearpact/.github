@@ -17,7 +17,7 @@ work before it's done, and how do funds release after verification?*
 
 - Product — <https://clearpact.polsia.app>
 - Docs — <https://clearpact.polsia.app/docs>
-- Public roadmap — <https://github.com/orgs/clearpact/projects>
+- Public roadmap — <[https://github.com/orgs/clearpact/projects](https://github.com/orgs/clearpact/projects/2)>
 - Contact — clearpact@polsia.app
 
 ## Base
